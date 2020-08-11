@@ -2,6 +2,7 @@
 var express = require("express");
 var path = require("path");
 var fs = require("fs");
+var data = require("./db.json");
 
 // Setting up express
 var app = express();
@@ -30,5 +31,5 @@ app.listen(PORT, function () {
 
 // Retrieves and displays all notes
 app.get("/api/notes", function (req, res) {
-  res.json(db);
+  res.json(data);
 });
