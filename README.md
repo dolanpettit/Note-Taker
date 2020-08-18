@@ -23,6 +23,8 @@ View the demo: <a href="https://drive.google.com/file/d/1I7jE7V5uZQH9PDVn2SHJ9nV
 
 This application does not have any testing suites.
 
+<img src="./img/NoteTaker.png">
+
 # Questions
 
 For any questions about this assignment, feel free to reach out to me on github or my email. Thank you for viewing this application.
