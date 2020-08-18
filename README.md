@@ -17,13 +17,13 @@ To install this application, run the command 'npm i' in your integrated terminal
 
 ## Usage Information
 
-View the demo: <a href="https://drive.google.com/file/d/1I7jE7V5uZQH9PDVn2SHJ9nVyaGgjyhdP/view">https://drive.google.com/file/d/1I7jE7V5uZQH9PDVn2SHJ9nVyaGgjyhdP/view</a>
+View the application: <a href="https://limitless-hamlet-30368.herokuapp.com/">https://limitless-hamlet-30368.herokuapp.com/</a>
+
+<img src="./img/NoteTaker.png">
 
 ## Test Instructions
 
-This application does not have any testing suites.
-
-<img src="./img/NoteTaker.png">
+This application does not currently have any testing suites.
 
 # Questions
 
